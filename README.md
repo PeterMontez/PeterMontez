@@ -43,6 +43,6 @@
 
 ###
 
-<p align="left">Currently working at Robert Bosch, majoring in Software Engineering and with a few years of experience in embedded systems and CNC machining.<br>I'm up for whatever comes my way!</p>
+<p align="left">Currently working at Robert Bosch as a Systems Developer, majoring in Software Engineering, certified mechatronics technician and with over 5 years of experience in embedded systems programming and CNC machining.<br>I'm up for whatever comes my way!</p>
 
 ###
