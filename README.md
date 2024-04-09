@@ -43,6 +43,6 @@
 
 ###
 
-<p align="left">Currently working at Renault Group as a Delegate Software Project Leader, majoring in Software Engineering, certified mechatronics technician and with over 5 years of experience in embedded systems programming and CNC machining.<br>I'm up for whatever comes my way!</p>
+<p align="left">Currently working at Renault Group as a Software Project Leader, majoring in Software Engineering, certified mechatronics technician and with over 5 years of experience in embedded systems programming and CNC machining.<br>I'm up for whatever comes my way!</p>
 
 ###
